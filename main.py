@@ -14,3 +14,8 @@ with col2:
     in Abuja, Nigeria. I have worked on various python projects, from little projects to main scale projects. 
     '''
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in python. Feel free to contact me!
+"""
+st.write(content2)
